@@ -3,7 +3,7 @@ from tkcalendar import *
 
 root = Tk()
 root.title("Pygraming")
-root.iconbitmap("C:/Users/Marko/Desktop/calendar.ico")
+root.iconbitmap("./Images/calendar.ico")
 root.geometry("580x500")
 
 cal = Calendar(root, selectmode="day", year = 2020, month = 9, day = 3)
