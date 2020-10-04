@@ -5,6 +5,10 @@ This is a GUI calendar.
 It is possible to pick a date. 
 Picked date is returned when "GET DATE" button is pressed.
 
+Libraries used:
+- tkcalendar ( install by typing 'pip install tkcalendar' in cmd / powershell )
+- tkinter ( built-in )
+
 To do:
 - add comments
 - add functionality of picking two dates and getting the difference as an output
